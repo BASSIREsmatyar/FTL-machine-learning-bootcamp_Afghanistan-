@@ -1,3 +1,3 @@
-# Conditional-statements-Assignment-1 
-Python assignments
+Python assignments FTL Maching learning boocamp_Afghanistan
+
 FTL Maching learning boocamp_Afghanistan 
